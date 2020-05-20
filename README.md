@@ -4,8 +4,6 @@
   Utilizando GraphQL
 </h3>
 
-<
-
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
